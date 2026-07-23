@@ -17,10 +17,10 @@
         "name": "JavHDProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.bar&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.cm&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 11078,
+        "fileSize": 32500,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -28,7 +28,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 8,
+        "version": 12,
         "internalName": "Sextop1Provider",
         "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/Sextop1Provider.cs3",
         "name": "Sextop1Provider"
