@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=krx18.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 24298,
+        "fileSize": 24259,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -28,7 +28,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Krx18Provider",
         "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/Krx18Provider.cs3",
         "name": "Krx18Provider"
