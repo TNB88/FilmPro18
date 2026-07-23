@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.cm&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 32212,
+        "fileSize": 32313,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -28,7 +28,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "Sextop1Provider",
         "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/Sextop1Provider.cs3",
         "name": "Sextop1Provider"
