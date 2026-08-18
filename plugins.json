@@ -1,9 +1,9 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=javhdz.love&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javhdz.city&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 11358,
+        "fileSize": 11232,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -11,7 +11,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 5,
+        "version": 7,
         "internalName": "JavHDProvider",
         "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/JavHDProvider.cs3",
         "name": "JavHDProvider"
@@ -34,10 +34,10 @@
         "name": "Krx18Provider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.cm&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.menu&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 31150,
+        "fileSize": 31142,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -45,16 +45,16 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "Sextop1Provider",
         "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/Sextop1Provider.cs3",
         "name": "Sextop1Provider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.my&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.ms&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 11904,
+        "fileSize": 11778,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -62,7 +62,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 5,
+        "version": 7,
         "internalName": "VlxxProvider",
         "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/VlxxProvider.cs3",
         "name": "VlxxProvider"
