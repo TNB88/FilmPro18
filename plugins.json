@@ -51,10 +51,10 @@
         "name": "Sextop1Provider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.ms&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.phd&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 11778,
+        "fileSize": 13796,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -62,7 +62,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "VlxxProvider",
         "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/VlxxProvider.cs3",
         "name": "VlxxProvider"
