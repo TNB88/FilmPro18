@@ -71,7 +71,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=javdock.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 17291,
+        "fileSize": 18619,
         "status": 1,
         "authors": [
             "TNB88"
@@ -79,9 +79,9 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "JavDockProvider",
-        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/2578644/JavDockProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/JavDockProvider.cs3",
         "name": "JavDockProvider"
     }
 ]
