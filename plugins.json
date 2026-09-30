@@ -20,24 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=krx18.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 25429,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 5,
-        "internalName": "Krx18Provider",
-        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/Krx18Provider.cs3",
-        "name": "Krx18Provider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=krx18.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 26508,
+        "fileSize": 26520,
         "status": 1,
         "authors": [
             "TNB88"
@@ -45,10 +28,10 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 1,
-        "internalName": "KRX18IIProvider",
-        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/KRX18IIProvider.cs3",
-        "name": "KRX18IIProvider"
+        "version": 2,
+        "internalName": "KRX18Provider",
+        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/KRX18Provider.cs3",
+        "name": "KRX18Provider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.style&sz=%size%",
