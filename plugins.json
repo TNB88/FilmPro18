@@ -34,10 +34,10 @@
         "name": "KRX18Provider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.style&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.money&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 33543,
+        "fileSize": 32330,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -45,7 +45,7 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "Sextop1Provider",
         "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/Sextop1Provider.cs3",
         "name": "Sextop1Provider"

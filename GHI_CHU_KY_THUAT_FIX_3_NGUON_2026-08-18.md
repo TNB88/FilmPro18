@@ -47,3 +47,12 @@
 - `JavHDProvider.cs3`: `83D30F87EB5597EFFA87B1E742520A8CC1C7EC5BA450C6E02287F5ECA22A542A`
 - `Sextop1Provider.cs3`: `3E99DEB457041112B28753E83287ABF634F4FC1B3884EBC9DBF3D503AD32A83C`
 - `VlxxProvider.cs3`: `B1ED5C119265A29E015E2D0E8BC7E21C89D6FBF8794288CFDAC7890B998AC4B8`
+
+## Cập nhật Sextop1 ngày 2026-10-26
+
+- Nâng `Sextop1Provider` từ version 17 lên 18.
+- Cập nhật domain dự phòng và favicon sang `https://sextop1.money`; vẫn giữ cơ chế đọc domain động từ `domainsextop1.txt`.
+- Website đã đổi thẻ danh sách từ `article.dp-item` sang `article.card`; bổ sung selector mới cho danh sách, liên kết, tiêu đề và ảnh poster, đồng thời giữ selector cũ làm phương án tương thích.
+- Kiểm tra trang chủ trả HTTP 200 và đọc được 30 phim trong một trang.
+- Kiểm tra trang chi tiết lấy được `data-id`, API `/wp-json/sextop1/player/` trả `success: true`, URL HLS trả HTTP 200 với Content-Type `application/vnd.apple.mpegurl`.
+- SHA-256 `Sextop1Provider.cs3`: `6569096463EA0D9B79BAF9F23D4B908690381293D05F2194545B60A2E042B931`.
