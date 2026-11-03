@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=krx18.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 26519,
+        "fileSize": 25663,
         "status": 1,
         "authors": [
             "TNB88"
@@ -28,13 +28,13 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "KRX18Provider",
         "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/KRX18Provider.cs3",
         "name": "KRX18Provider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.money&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.mba&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
         "fileSize": 32330,
