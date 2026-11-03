@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=krx18.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 25728,
+        "fileSize": 25664,
         "status": 1,
         "authors": [
             "TNB88"
@@ -28,9 +28,9 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "KRX18Provider",
-        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/main/KRX18Provider.cs3?v=7",
+        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/main/KRX18Provider.cs3?v=8",
         "name": "KRX18Provider"
     },
     {
@@ -85,3 +85,4 @@
         "name": "JavDockProvider"
     }
 ]
+
