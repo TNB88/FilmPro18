@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=krx18.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 51116,
+        "fileSize": 51128,
         "status": 1,
         "authors": [
             "TNB88"
@@ -30,9 +30,9 @@
         ],
         "version": 9,
         "internalName": "KRX18Provider",
-        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/3cd54675579708bcb090d8c914264b46c16a15a3/KRX18Provider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/a3fddc1a0a6874a23f2d7bf6273b06db31448751/KRX18Provider.cs3",
         "name": "KRX18Provider",
-        "fileHash": "sha256-3d63affd8868712aa1709ee95382b78180da62f6d0e679d32d013c642f4f88dd"
+        "fileHash": "sha256-6f41adb990b5ac409da4fef15fc5918996edea3e098b7048b1221a71d2be3858"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=sextop1.mba&sz=%size%",
