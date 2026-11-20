@@ -52,10 +52,10 @@
         "name": "Sextop1Provider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.phd&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 13710,
+        "fileSize": 13095,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -63,10 +63,11 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "VlxxProvider",
-        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/refs/heads/main/VlxxProvider.cs3",
-        "name": "VlxxProvider"
+        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/8ad6a338b2ce70a31fe0cad690ea8f9b4c7d44e2/VlxxProvider.cs3",
+        "name": "VlxxProvider",
+        "fileHash": "sha256-d7cf52e8e5ea47b07eda4b8eba5a9533624f67ad8f8c1b0d133da33cc1c35c2b"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=javdock.com&sz=%size%",
