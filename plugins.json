@@ -55,7 +55,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/FilmPro18/tree/main",
-        "fileSize": 13095,
+        "fileSize": 13438,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -63,11 +63,11 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "VlxxProvider",
-        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/8ad6a338b2ce70a31fe0cad690ea8f9b4c7d44e2/VlxxProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/FilmPro18/7c375e37bb083cf66c656c0a12ad5233702afd25/VlxxProvider.cs3",
         "name": "VlxxProvider",
-        "fileHash": "sha256-d7cf52e8e5ea47b07eda4b8eba5a9533624f67ad8f8c1b0d133da33cc1c35c2b"
+        "fileHash": "sha256-e5c99673a5094476904372c4c46304f1cc0a6b7c245480f8af1cc464a641cb96"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=javdock.com&sz=%size%",
